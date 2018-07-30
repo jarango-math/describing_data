@@ -1,2 +1,2 @@
-# describing_data
-Describing Data Drill for lesson two of statistics for data science
+# Drill Repository
+This is the location for all drills that will be done in the fundamentals of python programming course
